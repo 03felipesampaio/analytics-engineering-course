@@ -1,8 +1,8 @@
-version: 2
+version: 2 
 sources:
   - name: northwind
     schema: dl_northwind
-    tables:
+    tables: 
       - name: customer
       - name: employee_privileges
       - name: employees
