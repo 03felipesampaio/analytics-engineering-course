@@ -1,0 +1,5 @@
+venv
+dbt-env
+
+# I copied the whole zip from the instructor´s final project folder. So I don't have to copy the whole thing again.
+analytics-engineer-bootcamp-complete
